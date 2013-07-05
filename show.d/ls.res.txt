@@ -1,0 +1,6 @@
+2_stufe.res.txt
+2_stufe.sh
+ls.res.txt
+mw.res.teeed.txt
+mw.res.txt
+mw.sh
